@@ -23,7 +23,7 @@ Now lets see  the balcony view, pizza owner what he did was he identified the in
     \
     **Analogy with Pizza counter**: If there are three counters, the first guest goes to Counter 1, the second to Counter 2, the third to Counter 3, and the fourth back to Counter 1.\
 
-2.  **Least Connections -**The balancer sends new guests to the counter with the fewest people currently in the queue.
+2.  **Least Connections -**&#x54;he balancer sends new guests to the counter with the fewest people currently in the queue.
 
     \
     **Analogy with Pizza counter**: If Counter 1 has 3 people, Counter 2 has 2, and Counter 3 has 1, the next guest will be directed to Counter 3.\

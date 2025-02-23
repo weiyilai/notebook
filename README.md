@@ -19,6 +19,12 @@ Thank you for visiting my notebook. Keeping it straight. This is my learnings bo
 
 > Knowledge is like a flame that grows brighter when shared
 
+{% hint style="success" %}
+Building System design studio. Click here for more: [https://bit.ly/4bcJFBb](https://bit.ly/4bcJFBb)
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (150).png" alt=""><figcaption><p>System Design Studio</p></figcaption></figure>
+
 ## **Important Reference Links:**
 
 ### **Algorithms**
@@ -43,21 +49,21 @@ Thank you for visiting my notebook. Keeping it straight. This is my learnings bo
 * [https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 * [https://github.com/black-shadows/Cheat-Sheets](https://github.com/black-shadows/Cheat-Sheets)
 * [https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
-* [https://www.youtube.com/playlist?list=PL\_z\_8CaSLPWekqhdCPmFohncHwz8TY2Go](https://www.youtube.com/playlist?list=PL\_z\_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+* [https://www.youtube.com/playlist?list=PL\_z\_8CaSLPWekqhdCPmFohncHwz8TY2Go](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 * [https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-* [https://drive.google.com/file/d/1FMdN\_OCfOI0iAeDlqswCiC2DZzD4nPsb/view](https://drive.google.com/file/d/1FMdN\_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
-* [https://docs.google.com/document/d/1-kwXN\_crZIBNK7Wc5cUDXXNi\_hQ86MgOZIryGdEwpp4/edit](https://docs.google.com/document/d/1-kwXN\_crZIBNK7Wc5cUDXXNi\_hQ86MgOZIryGdEwpp4/edit)
+* [https://drive.google.com/file/d/1FMdN\_OCfOI0iAeDlqswCiC2DZzD4nPsb/view](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+* [https://docs.google.com/document/d/1-kwXN\_crZIBNK7Wc5cUDXXNi\_hQ86MgOZIryGdEwpp4/edit](https://docs.google.com/document/d/1-kwXN_crZIBNK7Wc5cUDXXNi_hQ86MgOZIryGdEwpp4/edit)
 * [https://github.com/twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)
 * [https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 * [https://www.youtube.com/playlist?list=PLF206E906175C7E07](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 * [https://www.principle.cards/](https://www.principle.cards/)
 * [https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e](https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e)
 * [https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide)
-* **Dynamic Programming:** [https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avO](https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avOg?utm\_source=linkedin\_share\&utm\_medium=member\_desktop\_web)
+* **Dynamic Programming:** [https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avO](https://www.linkedin.com/posts/aishwarya-mahapatra_prepwithaish-activity-6912253243892924416-avOg?utm_source=linkedin_share\&utm_medium=member_desktop_web)
 
 ### **Resume Templates**
 
-[https://github.com/darhonbek/resume\_templates](https://github.com/darhonbek/resume\_templates)
+[https://github.com/darhonbek/resume\_templates](https://github.com/darhonbek/resume_templates)
 
 
 
@@ -70,16 +76,16 @@ Thank you for visiting my notebook. Keeping it straight. This is my learnings bo
 * [takeUforward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
 * [Coding Decoded](./#important-links-for-preparation)
 * [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
-* [Errichto](https://www.youtube.com/channel/UCBr\_Fu6q9iHYQCh13jmpbrg)
-* [Errichto 2](https://www.youtube.com/channel/UC2D\_ekI79trchAxgRq5mwpQ)
-* [Rachit Jain](https://www.youtube.com/channel/UC9fDC\_eBh9e\_bogw87DbGKQ)
-* [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa\_YDy5qeATupf26w)
+* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Errichto 2](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
 * [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
 * [Go Code](https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA)
-* [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO\_fkrBw0OTrA)
+* [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
 * [code\_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
 * [VPlanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg)
-* [interviewing.io](https://www.youtube.com/channel/UCNc-Wa\_ZNBAGzFkYbAHw9eg)
+* [interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
 * [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
 * [abrar](https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg)
 * [umnik\_team](https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw)
@@ -106,26 +112,26 @@ Thank you for visiting my notebook. Keeping it straight. This is my learnings bo
 ### :link: **System Design Resources**
 
 * [Alex XU](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/System%20Design/Alex%20xu%20-%20System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu%20\(z-lib.org\).pdf) -- [**Click here to buy in Amazon**](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)&#x20;
-* [DDIA](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/tree/master/System%20Design/DDIA) ( Designing Data-Intensive Applications ) **--** [**Click here to Buy in Amazon**](https://www.amazon.in/gp/product/9352135245/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8\&psc=1)
+* [DDIA](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/tree/master/System%20Design/DDIA) ( Designing Data-Intensive Applications ) **--** [**Click here to Buy in Amazon**](https://www.amazon.in/gp/product/9352135245/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8\&psc=1)
 * [Gaurav sen Youtube videos](https://www.youtube.com/c/GauravSensei)
 * [Algo Expert](https://algoexpert.io/)
 * [https://sre.google/workbook/non-abstract-design/](https://sre.google/workbook/non-abstract-design/)
 
 ### :link: Telegram channels
 
-**2: AM Club for Software Engineers**: [https://t.me/sunilgudivada\_dev](https://t.me/sunilgudivada\_dev)
+**2: AM Club for Software Engineers**: [https://t.me/sunilgudivada\_dev](https://t.me/sunilgudivada_dev)
 
-**Raj Vikramaditya Striver**: [https://t.me/takeuforwardfam](https://t.me/takeuforwardfam) and [https://t.me/Competitive\_Programming\_tuf](https://t.me/Competitive\_Programming\_tuf)
+**Raj Vikramaditya Striver**: [https://t.me/takeuforwardfam](https://t.me/takeuforwardfam) and [https://t.me/Competitive\_Programming\_tuf](https://t.me/Competitive_Programming_tuf)
 
-**System Design Interviews**: [https://t.me/system\_design\_interviews](https://t.me/system\_design\_interviews)
+**System Design Interviews**: [https://t.me/system\_design\_interviews](https://t.me/system_design_interviews)
 
-**IT Resume review**: [https://t.me/resume\_review](https://t.me/resume\_review)
+**IT Resume review**: [https://t.me/resume\_review](https://t.me/resume_review)
 
 **FAANG Interview:** [https://t.me/FaangInterview](https://t.me/FaangInterview)
 
-**Behavioral Interview**: [https://t.me/Behavioral\_interview](https://t.me/Behavioral\_interview)
+**Behavioral Interview**: [https://t.me/Behavioral\_interview](https://t.me/Behavioral_interview)
 
-**DDIA Discussion:** [https://t.me/ddia\_discussion](https://t.me/ddia\_discussion)
+**DDIA Discussion:** [https://t.me/ddia\_discussion](https://t.me/ddia_discussion)
 
 **Tech Dose**: [https://t.me/codewithTECHDOSE](https://t.me/codewithTECHDOSE)
 

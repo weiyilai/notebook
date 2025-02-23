@@ -55,7 +55,7 @@ _For 10 - 15 min, There was a deep-down project discussion,_
 _Next, he jumped on to the Problem statement._ \
 _Build high scalable, low latency, highly available systems like Amazon or Flipkart, or dunzo Initially, the interviewer asked me to list down the important features then moved to the high-level part. The Interviewer expected me to move from MVP, Staging system requirements, Production requirements._\
 \
-_**Follow up questions:**_
+&#xNAN;_**Follow up questions:**_
 
 1. _Why NoSQL Database but not RDMS?_
 2. _Why Microservice architecture why not monolithic?_
@@ -69,7 +69,7 @@ _This round lasted for 1:25 min -- **Self Feedback:** Strong Hire_
 _**6:30 PM - As appropriate - AA Round - Principal Project Manager took this round**_
 
 _**15 - 20 MIN**_ - _Deep Down into project discussion at the architecture level and recent challenges you have faced in the project. I used STAR ( Situation, Task, Action, Result ) format to answer these questions_\
-_**20 - 25 MIN**_ - _After that, I had given the task to design Google Pay System - Focus is mostly on how to handle payment failures and database design._
+&#xNAN;_**20 - 25 MIN**_ - _After that, I had given the task to design Google Pay System - Focus is mostly on how to handle payment failures and database design._
 
 _**10 - 15 MIN**_ - _Few behavioral questions, Why Microsoft? Why are you leaving the current company?_
 
@@ -95,6 +95,6 @@ _In the third week of January, received the interview request for Github (SDE II
 
 **Algorithms** - Leetcode, GFG, Algo Expert&#x20;
 
-**Low-level Design** from interview experiences**,** Head First Design Patterns
+**Low-level Design** from interview experience&#x73;**,** Head First Design Patterns
 
 **High-Level Design** - Alex Xu - System design, Grokking, Gaurav Sen Youtube videos
