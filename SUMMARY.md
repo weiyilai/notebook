@@ -153,6 +153,13 @@
 * [Programming Language and Fundementals](preparation-manual/programming-language-and-fundementals.md)
 * [Best Practices and Experience](preparation-manual/best-practices-and-experience.md)
 
+## Transformers & LLMs
+
+* [NLP Tasks](transformers-and-llms/nlp-tasks.md)
+* [Tokenization](transformers-and-llms/tokenization.md)
+* [Token Represenation](transformers-and-llms/token-represenation.md)
+* [RNNs](transformers-and-llms/rnns.md)
+
 ## Web Applications
 
 * [Typescript Guidelines](web-applications/typescript-guidelines.md)
